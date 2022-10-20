@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=안녕하세요&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=xiyxnx&fontSize=90)
 
 ### Hi there 👋
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 [![태그이름](https://img.shields.io/badge/태그에 적히는 글씨-태그색?style=flat-square&logo=로고이름&logoColor=로고색)](관련된 내 링크)
 -->
 
-
+<!--
 **안녕** <br>
 *하세요* <br>
 ~~취소선~~
@@ -55,5 +55,4 @@ System.writeLine();
 :smirk:<br>
 :joy:<br>
 :rage:
-
-
+-->
